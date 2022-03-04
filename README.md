@@ -1,4 +1,4 @@
-# C-_Course_Practice_Learning
+# C++_Course_Practice_Learning
 I am learning C++ language , hence , This are the practice questions of C++ course. This is a part of 100DaysOfCode challenge
 
 ### Chapter 1 : Introduction & Basics.
