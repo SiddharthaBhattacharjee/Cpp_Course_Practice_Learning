@@ -5,3 +5,10 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   1) Hello World Program.
   2) NameSpace.
   3) Variables.
+  4) Variable Scope.
+  5) Basic IO.
+  6) Operators.
+  7) Types of Operators.
+  8) Accessing Global Variables.
+  9) Reference Variables.
+  10) Type Casting.
