@@ -12,3 +12,10 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   8) Accessing Global Variables.
   9) Reference Variables.
   10) Type Casting.
+  11) Constants.
+  12) Manipulators.
+  13) Operator Presidence.
+  14) Control Structures.
+  15) Types of Control Structures.
+  16) If Else and Else if statements.
+  17) Switch Statements.
