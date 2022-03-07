@@ -19,3 +19,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   15) Types of Control Structures.
   16) If Else and Else if statements.
   17) Switch Statements.
+  18) For Loop
+  19) While & do-While loop.
+
+### Chapter 2 : Basic Topics of C++.
+  1) Pointers.
