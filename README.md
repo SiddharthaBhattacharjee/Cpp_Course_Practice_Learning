@@ -27,5 +27,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   2) Arrays.
   3) Pointer arithmatics.
   4) Structures.
-  5) Unions.
-  6) Enums.
+  5) Typedef.
+  6) Unions.
+  7) Enums.
