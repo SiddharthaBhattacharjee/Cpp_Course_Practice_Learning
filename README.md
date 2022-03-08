@@ -24,3 +24,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
 
 ### Chapter 2 : Basic Topics of C++.
   1) Pointers.
+  2) Arrays.
+  3) Pointer arithmatics.
+  4) Structures.
+  5) Unions.
+  6) Enums.
