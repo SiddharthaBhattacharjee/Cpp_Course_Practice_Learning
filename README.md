@@ -30,3 +30,13 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   5) Typedef.
   6) Unions.
   7) Enums.
+  
+### Chapter 3 : Functions in C++.
+  1) Introduction to functions.
+  2) function Prototyping.
+  3) Function Call by reference and Reference Variables.
+  4) Returning reference from a function.
+  5) Static variables in function.
+  6) Inline Functions.
+  7) Default Arguements.
+  
