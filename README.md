@@ -42,3 +42,12 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   8) Recursion.
   9) Function Overloading.
   
+### Chapter 4 : Object Oriented Programming.
+  1) Introduction to OOPs.
+  2) OOP vs POP.
+  3) basic components of OOPs.
+  4) Classes and objects.
+  5) structure vs classes.
+  6) private and public in classes.
+  7) class functions.
+  8) Nesting of member functions.
