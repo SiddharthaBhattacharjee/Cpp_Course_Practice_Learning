@@ -51,3 +51,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   6) private and public in classes.
   7) class functions.
   8) Nesting of member functions.
+  9) Array in Classes.
+  10) Static Variables in Classes.
+  11) Static functions in Classes.
+  12) Array of objects of a class.
+  13) Objects as function arguements.
