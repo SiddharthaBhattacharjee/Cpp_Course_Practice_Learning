@@ -56,3 +56,7 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   11) Static functions in Classes.
   12) Array of objects of a class.
   13) Objects as function arguements.
+  14) Friend Functions.
+  15) Properties of Friend Functions.
+  16) Friend Member functions of external class.
+  17) Friend class.
