@@ -60,3 +60,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   15) Properties of Friend Functions.
   16) Friend Member functions of external class.
   17) Friend class.
+  18) Function Friends to multiple classes.
+  19) Class pvt data manipulation from friend function.
+  20) Constructors
+  21) Default and Parameterized Constructors.
+  22) Constructor Overloading.
