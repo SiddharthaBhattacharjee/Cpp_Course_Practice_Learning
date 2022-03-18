@@ -65,3 +65,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   20) Constructors
   21) Default and Parameterized Constructors.
   22) Constructor Overloading.
+  23) Default args in Constructor.
+  24) Dynamic Initialization of object using constructors.
+  25) Copy constructors.
