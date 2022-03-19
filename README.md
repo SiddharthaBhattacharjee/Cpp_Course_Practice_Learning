@@ -68,3 +68,15 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   23) Default args in Constructor.
   24) Dynamic Initialization of object using constructors.
   25) Copy constructors.
+  26) Destructor.
+  27) Inheritance.
+  28) Types of Inheritance:
+
+          1)Single Inheritance.
+          2)Multiple Inheritance.
+          3)Hierarchial Inheritance.
+          4)Multilevel Inheritance.
+          5)Hybrid Inheritance.
+
+   29. Visibility mode of Inheritance.
+   
