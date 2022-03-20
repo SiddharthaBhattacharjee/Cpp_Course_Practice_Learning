@@ -79,4 +79,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
           5)Hybrid Inheritance.
 
    29. Visibility mode of Inheritance.
+   30. Private and Public Inheritance.
+   31. Single Inheritance.
+   32. Protected access Modifier.
+   33. Protected Inheritance.
    
