@@ -55,16 +55,34 @@ public:
                 arr[count].push_back('y');
                 arr[count].push_back('z');
             }
+            count++;
 
         }
+        //work in progress
+        int x=0;
         for(int i=0;i<digits.length();i++){
-            for(char a:arr[i]){
-                
+            for(int k=0;k<arr[i].size();k++){
+                string s="";
+                for(int j=0;j<arr[i].size();j++){
+                    string aij(1, arr[i][j]);
+                    string ajj(1, arr[x][i]);
+                    s = s+aij+ajj;
+                    sts.push_back(s);
+                    s="";
+                }
+                x++;
             }
+            x=0;
         }
+        return sts;
     }
 };
 
 int main(){
+    Solution sol;
+    vector<string> st = sol.letterCombinations("23");
+    for(string s: st){
+        cout<<s<<',';
+    }
     return 0;
 }
