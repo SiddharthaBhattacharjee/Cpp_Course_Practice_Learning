@@ -83,4 +83,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    31. Single Inheritance.
    32. Protected access Modifier.
    33. Protected Inheritance.
+   34. Multilevel Inheritance.
+   35. Multiple Inheritance.
    
