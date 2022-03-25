@@ -58,27 +58,20 @@ public:
             count++;
 
         }
-        //work in progress
-        int x=0;
-        for(int i=0;i<digits.length();i++){
-            for(int k=0;k<arr[i].size();k++){
-                string s="";
-                for(int j=0;j<arr[i].size();j++){
-                    string aij(1, arr[i][j]);
-                    string ajj(1, arr[x][i]);
-                    s = s+aij+ajj;
+        // take arrays stored in arr and combine them in zip fashion strings
+        for(int i=0;i<arr[0].size();i++){
+            for(int j=0;j<arr[1].size();j++){
+                for(int k=0;k<arr[2].size();k++){
+                    string s = {arr[0][i],arr[1][j],arr[2][k],'\0'};
                     sts.push_back(s);
-                    s="";
                 }
-                x++;
             }
-            x=0;
         }
         return sts;
     }
 };
 
-int main(){
+int main(){ 
     Solution sol;
     vector<string> st = sol.letterCombinations("23");
     for(string s: st){
