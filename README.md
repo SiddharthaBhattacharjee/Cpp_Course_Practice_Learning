@@ -87,4 +87,5 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    35. Multiple Inheritance.
    36. Ambiguity Resolution in Inheritance.
    37. Overriding functions in Inheritance.
+   38. Virtual Base Class.
    
