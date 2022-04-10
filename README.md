@@ -88,4 +88,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    36. Ambiguity Resolution in Inheritance.
    37. Overriding functions in Inheritance.
    38. Virtual Base Class.
+   39. Constructor in Multiple Inheritance
+   40. Initialization list in constructor
    
