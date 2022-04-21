@@ -30,6 +30,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   5) Typedef.
   6) Unions.
   7) Enums.
+  8) new and delete in pointers.
+  9) array using pointers.
   
 ### Chapter 3 : Functions in C++.
   1) Introduction to functions.
@@ -90,4 +92,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    38. Virtual Base Class.
    39. Constructor in Multiple Inheritance
    40. Initialization list in constructor
+   41. Pointer to Objects
+   42. Array of objects
+   43. Arrow Operator
+   44. This pointer
    
