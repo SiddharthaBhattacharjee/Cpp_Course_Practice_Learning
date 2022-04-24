@@ -96,4 +96,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    42. Array of objects
    43. Arrow Operator
    44. This pointer
+   45. Polymorphism
+   46. Types of Polymorphism
    
