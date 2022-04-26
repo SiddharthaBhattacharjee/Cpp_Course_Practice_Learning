@@ -98,4 +98,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    44. This pointer
    45. Polymorphism
    46. Types of Polymorphism
+   47. Pointer to Derived Class
+   48. Virtual Functions
    
