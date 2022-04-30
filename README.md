@@ -100,4 +100,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    46. Types of Polymorphism
    47. Pointer to Derived Class
    48. Virtual Functions
+   49. Rules for Virtual Functions
+   50. Array of different base class objects.
    
