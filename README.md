@@ -102,4 +102,6 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    48. Virtual Functions
    49. Rules for Virtual Functions
    50. Array of different base class objects.
+   51. Purely Virtual Functions/ Do-Nothing Functions.
+   52. Abstract base class.
    
