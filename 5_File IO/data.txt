@@ -1,0 +1,11 @@
+
+
+Siddhartha , 18 , 101
+Gautam , 20 , 102
+Ansh , 19 , 103
+
+Arnav , 18 , 101
+Bhanu , 19 , 102
+
+Pasam , 18 , 101
+Abdul , 19 , 102
