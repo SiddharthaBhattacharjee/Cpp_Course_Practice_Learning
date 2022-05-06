@@ -105,3 +105,10 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
    51. Purely Virtual Functions/ Do-Nothing Functions.
    52. Abstract base class.
    
+### Chapter 5 : File I/O.
+  1)Writing to an empty file
+  2)Reading from a file
+  3)Closing a file
+  4)eol() and iteration of file
+  5)Writing in old file restoring data
+  6)open()
