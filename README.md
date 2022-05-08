@@ -112,3 +112,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   4) eol() and iteration of file
   5) Writing in old file restoring data
   6) open()
+
+### Chapter 6 : Templates.
+  1) Introduction to Templates.
+  2) Basic Syntax of Templates.
+  3) Template to class.
