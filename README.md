@@ -117,3 +117,8 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   1) Introduction to Templates.
   2) Basic Syntax of Templates.
   3) Template to class.
+  4) Templates with multiple Parameter.
+  5) Templates to Functions.
+  6) Templates to member functions.
+  7) Template Functions Overloading.
+  8) Default Parameter of Template.
