@@ -122,3 +122,9 @@ I am learning C++ language , hence , This are the practice questions of C++ cour
   6) Templates to member functions.
   7) Template Functions Overloading.
   8) Default Parameter of Template.
+
+### Chapter 7 : STL.
+  1) What is STL
+  2) Components of STL  <ul><li>Containers <li>Algorithms <li>Iterators </ul>
+  3) Containers & Its types <ul><li>Sequential Containers <li>Associative Containers <li>Derived Containers </ul>
+  4) Vectors
